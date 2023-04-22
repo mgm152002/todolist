@@ -1,21 +1,23 @@
 # todolist
 
-Todo List App
+Todo List App:
 This is a web-based application for managing your daily tasks
 
-Features
+Features:
 Add new tasks
 Mark tasks as completed
 Remove tasks
 
-Technologies Used
+Technologies Used:
 EJS
 Bootstrap
 HTML/CSS
 Node js
 Express
 Getting Started
-Prerequisites
+
+
+Prerequisites:
 Node.js (v12 or later)
 
 Website:
@@ -28,10 +30,10 @@ usage:
 
 
 
-Contributing
+Contributing:
 Contributions are always welcome! If you have any ideas or suggestions, please create a pull request.
 
-License
+License:
 Distributed under the MIT License. See LICENSE for more information.
 
 
